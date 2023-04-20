@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://heavenlycode.tech](https://heavenlycode.tech)
 
-- 💬 Ask me about **Laravel 9,Php**
+- 💬 Ask me about **Php, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
