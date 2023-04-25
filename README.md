@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CraveCorner](https://cravecorner.shop)
 
-- 🌱 I’m currently learning **nodejs,mongodb**
+- 🌱 Current stack:  **mongodb,express,reactjs,nodejs**
 
 - 👨‍💻 All of my projects are available at [https://heavenlycode.tech](https://heavenlycode.tech)
 
