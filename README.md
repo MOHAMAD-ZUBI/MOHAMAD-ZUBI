@@ -1,4 +1,4 @@
-<h2 align="left">Hello there! 👋 My name is Mohamad, and I work as a fullstack developer.</h2>
+<h2 align="left">Hello there! 👋 My name is Mohamad, and I love to build things that live on the internet.</h2>
 
 ###
 
