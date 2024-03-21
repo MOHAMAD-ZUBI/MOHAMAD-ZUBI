@@ -1,32 +1,31 @@
-<h2 align="left">Hello there! 👋 My name is Mohamad, and I love to build things that live on the internet.</h2>
+### Hey, I'm Mohamad 👋🏽  
 
-###
+I'm a 23-year-old developer based in Turkey, and I'm passionate about crafting digital experiences. 
 
+- Check out my [website](https://mohamad-zubi.com/) to learn more about me.
+- Explore my [blog](https://mohamad-zubi.com/blog) where I share insights and learnings.
+
+
+
+
+
+
+
+
+
+## 📦 Toolbox
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgwcTJ3cXQ3NWU1Y2g4a3RzOGVzOGlyMngycjRteno0djlrYTh3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XkgVbNNYwAony8qmf/giphy.gif"  />
 
-###
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `Github` 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+**Backend Development:** `Node.js` `Express.js` `Laravel` `MongoDB` `MySql` `Graphql` 
+
+**Testing:** `Codeium` `Postman` `Insomnia`
+
+**Others:** `Vercel` `AWS` `Figma` `Hostinger`
+ 
 
 ###
 
