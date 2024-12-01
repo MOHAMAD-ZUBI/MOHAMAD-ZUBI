@@ -1,47 +1,28 @@
-### Hey, I'm Mohamad 👋🏽  
+# Hey, I'm Mohamad 👋🏽  
 
-I'm a 23-year-old developer based in Turkey, and I'm passionate about crafting digital experiences. 
+I love to play around with ai :)
 
-- Check out my [website](https://mohamad-zubi.com/) to learn more about me.
-- Explore my [blog](https://mohamad-zubi.com/blog) where I share insights and learnings.
+- 🌐 Visit my [website](https://mohamad-zubi.com/) to learn more.  
+- ✍️ Read my [blog](https://mohamad-zubi.com/blog) for insights and learnings.  
 
+---
 
+## 📦 **Toolbox**
 
+**Frontend:** React, Next.js, TypeScript, Tailwind, Framer Motion  
+**Backend:** Node.js, Express.js, Supabase, MongoDB, MySQL
+**Version Control:** Git, GitHub  
+**Testing & APIs:** Postman 
+**Others:** Vercel, AWS, Figma, Hostinger  
 
+---
 
-
-
-
-
-## 📦 Toolbox
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgwcTJ3cXQ3NWU1Y2g4a3RzOGVzOGlyMngycjRteno0djlrYTh3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XkgVbNNYwAony8qmf/giphy.gif"  />
-
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+## 🌐 **Connect with Me**
  
-**Version Control:** `Git` `Github` 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/495955856853172224)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sichiiopvp@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-zubi/)  
 
-**Backend Development:** `Node.js` `Express.js` `Laravel` `MongoDB` `MySql` `Graphql` 
+---
 
-**Testing:** `Codeium` `Postman` `Insomnia`
-
-**Others:** `Vercel` `AWS` `Figma` `Hostinger`
- 
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/sichiio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/495955856853172224" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="sichiiopvp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamad-zubi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+⭐️ *Thanks for stopping by!* ⭐️
